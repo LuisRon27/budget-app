@@ -1,0 +1,27 @@
+.row {
+  width: 100%;
+}
+
+input {
+  text-align: center;
+}
+
+button {
+  width: 100%;
+}
+
+/*============= Media Queries ================*/
+@media (max-width:991px) {}
+
+@media (max-width:768px) {
+  .card {
+    margin-left: 1rem;
+  }
+}
+
+@media (max-width:450px) {
+
+  .card {
+    margin-left: 1rem;
+  }
+}

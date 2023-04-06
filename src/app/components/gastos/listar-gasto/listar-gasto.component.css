@@ -1,0 +1,25 @@
+.sizeAlert {
+  font-size: 1.2rem;
+}
+
+.badge {
+  font-size: 1.2rem;
+}
+
+/*============= Media Queries ================*/
+@media (max-width:991px) {}
+
+@media (max-width:768px) {
+
+  h4 {
+    margin-top: 1.2rem;
+  }
+
+}
+
+@media (max-width:450px) {
+
+  h4 {
+    margin-top: 1.2rem;
+  }
+}
